@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(28, 28, 28);
+    color: #cecece;
+}
+header{
+    text-align: center;
+    margin: 20px;
+}
+header h1, header h2{
+    padding-bottom: 20px;
+    color: white;
+}
+.header{
+    height: 250px;
+    width: 250px;
+    margin: 8px auto 15px auto;
+}
+p{
+    margin: auto 80px 15px 80px;
+    font-size: 17px;
+}
+main{
+    text-align: center;
+}
+.main{
+    color: white;
+    margin: 10px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(195, 162, 255);
+}
