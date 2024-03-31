@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(26, 25, 25);
+    color: rgb(224, 218, 218);
+    text-align: center;
+    margin: 20px 20px 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    margin: 20px;
+}
+img{
+    height: 250px;
+    width: 450px;
+}
+a{
+    color: rgb(224, 218, 218);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+p img{
+    height: 70px;
+    width: 70px;
+    align-items: center;
+}

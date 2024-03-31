@@ -1,6 +1,6 @@
 # <b> Desafio 5 do modulo 1 | fazer uma pagina de apresentação </b>
 
-o link do site que eu criei a partir desse desafio vai estar [aqui](https://apresentacao-midias.netlify.app/), confere que o resultado ficou bem legal hihihi 🧡
+o link do site que eu criei a partir desse desafio está disponivel [aqui](https://apresentacao-midias.netlify.app/), confere que o resultado ficou bem legal hihihi 🧡
 
 ## Mas qual é o objetivo do desafio? 
 

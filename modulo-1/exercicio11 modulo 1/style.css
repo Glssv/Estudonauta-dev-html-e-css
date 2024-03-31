@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    margin: 10px 70px 10px 70px;
+    background-color: rgb(44, 43, 43);
+    color: rgb(180, 178, 175);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 17px;
+}
+h1,h2{
+    color: white;
+}
