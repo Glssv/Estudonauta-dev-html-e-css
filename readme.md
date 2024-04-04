@@ -17,6 +17,10 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 #### { No entanto, se você acessar cada README dentro das pastas, encontrará proposta de cada exercicio/desafio. }
 
+ ---
+
+# Modulo 1
+
 ### Desafio 5 do modulo 1
 - o link do site que eu criei a partir desse desafio está disponivel [aqui](https://apresentacao-midias.netlify.app/)
   
@@ -29,7 +33,13 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 ### Exercicio 11 do modulo 1
 - para ver o site que eu fiz é só [clicar aqui](https://estudonauta-musica.netlify.app/)
 
-###
+# modulo 2
+
+### Exercicio do modulo 2
+- para ver esse exercicio é só [clicar aqui](https://site-exemplo-estudonauta.netlify.app/)
+
+### Desafio Fazer um site modulo 2 
+- para ver esse site que ficou belissimo (ficou mesmo) [clique aqui](https://gato-olly.netlify.app/)
 
 
 ---
