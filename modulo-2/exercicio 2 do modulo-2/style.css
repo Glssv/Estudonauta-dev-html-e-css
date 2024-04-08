@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background: black url(img/fundo.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+main{
+    background-color: white;
+    padding: 20px;
+    max-width: 520px;
+    margin: auto;
+    border: 2px solid blueviolet;
+    border-radius: 15px;
+}

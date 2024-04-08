@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans';
+    font-size: 1em;
+}
+html, body{
+    min-width: 100vh;
+    background-color: rgb(108, 0, 0);
+}
+header{
+    background-color: rgba(0, 0, 0, 0.248);
+    background-image: url(img/download\ \(10\).jpg);
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover;
+    color: rgb(255, 208, 208);
+    text-align: center;
+}
+header > h1{
+    padding-top: 50px;
+    font-variant: small-caps;
+    font-size: 4vw;
+}
+header > p{
+    padding-bottom: 50px;
+}
+a{
+    color: rgb(255, 208, 208);
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:hover{
+    background-color: brown;
+    padding: 1px;
+    color: rgb(0, 0, 0);
+}
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-size: 1.5em;
+}
+.normal{
+    background-color: rgb(108, 0, 0);
+    color: rgb(255, 210, 210);
+}
+.img{
+    background-color: red;
+    color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.55);
+    background-size: cover;
+    background-attachment: fixed;
+}
+section.img > p{
+    display: inline-block;
+    padding: 8px;
+    background-color: rgba(0, 0, 0, 0.25);
+    text-shadow: 2px 2px 0px black;
+}
+section#img1{
+    background-image: url(img/𝔇𝔭𝔯\ 𝔦𝔞𝔫\ \ 𝔏𝔦𝔪𝔟𝔬\ 𝔪𝔳.jpg);
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.248);
+    background-position: center center;
+}
+section#img2{
+    background-image: url(img/mito.jpg);
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.248);
+    background-repeat: no-repeat;
+    background-position: right center; 
+    
+}
+
+
+footer{
+    background-color: rgb(101, 27, 27);
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+table{
+    width: 500px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+th{
+    border: 1px solid black;
+    padding: 8px;
+}
+thead, tfoot{
+    background-color: #322D4A;
+    color: #b4a9e1;
+}
+tbody > tr:nth-child(odd){
+    background-color:#8A859E;
+}
+tbody > tr:nth-child(even){
+    background-color: #676081;
+}
+td.num{
+    text-align: right;
+}
