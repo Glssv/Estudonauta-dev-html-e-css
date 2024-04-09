@@ -39,10 +39,10 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 # Modulo 2
 
-### Exercicio do modulo 2
+### Exercicio do modulo 2 - site exemplo
 * para ver esse exercicio é só [clicar aqui](https://site-exemplo-estudonauta.netlify.app/)
 
-### Desafio Fazer um site modulo 2 
+### Desafio Fazer um site modulo 2
 * para ver esse site que ficou belissimo (ficou mesmo e estou extremamente orgulhosa) [clique aqui](https://gato-olly.netlify.app/)
 
 ### Exericico 2 do modulo 2 - shorthand e attachmant
@@ -60,6 +60,10 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 * Desafio parte 1 sobre tabelas, [clique aqui](desafio-1-sobre-tabelas.netlify.app) para ver o desafio
 * Desafio parte 2 sobre tabelas, [clique aqui](https://desafio-2-sobre-tabelas.netlify.app/) para ver o desafio
 
+# Modulo 4
+
+### Desafio redes sociais 
+* para ver o site pronto [clique aqui](https://projeto-redes-sociais-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
