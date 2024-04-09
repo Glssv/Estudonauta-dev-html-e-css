@@ -64,6 +64,9 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ### Desafio redes sociais 
 * para ver o site pronto [clique aqui](https://projeto-redes-sociais-estudonauta.netlify.app/)
+
+### Primeiro exercicio sobre formularios 
+* para ver o exercicio [clique aqui](https://formulario-1-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
