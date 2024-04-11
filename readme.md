@@ -73,6 +73,9 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ### Aprendendo mais coisas sobre input e formulario
 * estudamos alguns botões de input novos, o exercicio [ta aqui](https://formulario-3-estudonauta.netlify.app/)
+
+### Formularios com telefone e emails 
+* estudamos como colocar telefone e emails no formulario. O exercicio [ta aqui](https://formulario-4-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
