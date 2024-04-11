@@ -6,15 +6,23 @@
     <title>Formulario</title>
 </head>
 <body>
-    <form action="cadastro.php" method="post" autocomplete="on">
-        <p>
-            <label for="iusu">Usuario:</label>
-            <input type="text" name="usu" id="iusu" required minlength="5" maxlength="15" placeholder="nome do usuario" autocomplete="username">
-        </p>
-        <p>
-            <label for="isen"></label>senha:</label>
-            <input type="password" name="senha" id="isen" required minlength="8" maxlength="10" placeholder="digite sua senha aqui" autocomplete="current-password">
-        </p>
+    <h1>Exemplo de formularios</h1>
+    <form action="cadastro.php" method="get" autocomplete="on">
+        <fieldset>
+            <legend>sexo</legend>
+            <input type="radio" name="sexo" id="imasc"> <label for="imasc">Masculino</label> <br>
+            <input type="radio" name="sexo" id="ifem"> <label for="ifem">Femenino</label> <br>
+            <input type="radio" name="sexo" id="inbi"> <label for="inbi">Não binario</label> <br>
+            <input type="radio" name="sexo" id="iout"> <label for="iout">outro</label> <br>
+        </fieldset>
+    <fieldset>
+        <legend>Esportes favoritos</legend>
+        <input type="checkbox" name="esmuay" id="iesmuay"><label for="iesmuay">muay thai</label>  <br>
+        <input type="checkbox" name="esten" id="iesten"><label for="iesten"> tenis </label><br>
+        <input type="checkbox" name="esnat" id="iesnat"> <label for="iesnat">natação</label> <br>
+        <input type="checkbox" name="esfut" id="iesfut"> <label for="iesfut">futebol</label> <br>
+        <input type="checkbox" name="esbas" id="iesbas"> <label for="iesbas">basquete </label><br>
+    </fieldset>
         <p>
             <input type="submit" value="enviar">
             <input type="reset" value="limpar">

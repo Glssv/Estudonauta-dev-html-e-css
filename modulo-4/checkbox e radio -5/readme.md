@@ -1,4 +1,3 @@
-# Formularios 2 | Estudonauta
+# Formulario 4 | Estudonauta
 
-Estudos de formularios, e esse foi o formulario usando alguns controles e botões 
-o link da atividade [ta aqui](https://formulario-2-estudonauta.netlify.app/)
+Estudamos o que é o checkbox e radio. O exercicio feito [ta aqui](https://formulario-5-estudonauta.netlify.app/)

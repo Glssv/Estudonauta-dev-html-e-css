@@ -1,1 +1,1 @@
-os dados foram enviados
+cadastro concluido

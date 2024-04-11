@@ -76,6 +76,9 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ### Formularios com telefone e emails 
 * estudamos como colocar telefone e emails no formulario. O exercicio [ta aqui](https://formulario-4-estudonauta.netlify.app/)
+
+### Formularios com checkbox e radio
+* O exercicio completo [ta aqui](https://formulario-5-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
