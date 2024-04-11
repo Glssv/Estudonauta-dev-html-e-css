@@ -68,8 +68,11 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 ### Primeiro exercicio sobre formularios 
 * para ver o exercicio [clique aqui](https://formulario-1-estudonauta.netlify.app/)
 
-## Aprendendo alguns controles e botões
+### Aprendendo alguns controles e botões
 * o link da atividade [ta aqui](https://formulario-2-estudonauta.netlify.app/)
+
+### Aprendendo mais coisas sobre input e formulario
+* estudamos alguns botões de input novos, o exercicio [ta aqui](https://formulario-3-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
