@@ -79,6 +79,12 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ### Formularios com checkbox e radio
 * O exercicio completo [ta aqui](https://formulario-5-estudonauta.netlify.app/)
+
+### Formularios com color, ranger e file
+* O pra ver o exercicio feito [clique aqui](https://formulario-6-estudonauta.netlify.app/)
+
+### Formularios select, datalist e textarea
+* Para ver o exercicio é só [clicar aqui](https://formulario-7-estudonauta.netlify.app/)
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
