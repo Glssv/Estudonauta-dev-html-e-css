@@ -85,6 +85,16 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ### Formularios select, datalist e textarea
 * Para ver o exercicio é só [clicar aqui](https://formulario-7-estudonauta.netlify.app/)
+
+### começamos os estudos de Media Query - exercicio 1
+* estudos de media query e media types: screen e print. o pra ver o link do exercicio é só [clicar aqui](https://media-queries-estudonauta.netlify.app/)
+
+
+
+
+
+
+
 ---
 <h2 align="center">
   <img src="img/catzinho.jpg" width="300">
