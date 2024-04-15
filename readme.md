@@ -107,7 +107,10 @@ o site é bem feinho mesmo e as cores não combinam muito bem, mas é porque foi
 ### Exercicio 3 : mostrando a orientação do dispositivo com mesmo css (para sites pequenos)
   * usamos a mesma base do exercicio anterior porém usando consultas de (`@media`) usamos o mesmo style para fazer tudo isso, usamos `@media screen and (orientation: landscape)` para o modo retrato e `@media screen and (orientation: portrait)` para o modo paisagem. 
 
+### Iniciando um site mobile first 
+  *  usamos o `@media` para fazer as configurações do site, ele muda pra cada tipo de tela, achei muito legal. O link do site está [aqui](https://site-media-queries.netlify.app/)
 
+### projeto menu responsivo 
 
 
 
