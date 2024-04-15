@@ -50,21 +50,25 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 # Modulo 3
 
-### primeiro desafio do modulo 3 pra usar o efeito parallax
+### Primeiro desafio do modulo 3 pra usar o efeito parallax
 * para ver o site que estou muito orgulhosa por ter criado é só [clicar aqui](https://winterfall.netlify.app/)
 
 ### Exercicios e desafios sobre tabelas 
 * primeiro exercicio sobre tabelas, [clique aqui](https://estudo-tabela.netlify.app/) para ver o exercicio 
 * Segundo exercicio sobre tabelas,  [clique aqui](https://exercicio-2-sobre-tabelas.netlify.app/) para ver o exercicio 
 * Terceiro exercicio sobre tabelas, [clique aqui](https://exercicio-3-tabelas.netlify.app/) para ver o exercicio 
-* Desafio parte 1 sobre tabelas, [clique aqui](desafio-1-sobre-tabelas.netlify.app) para ver o desafio
-* Desafio parte 2 sobre tabelas, [clique aqui](https://desafio-2-sobre-tabelas.netlify.app/) para ver o desafio
+
+### Desafio parte 1 sobre tabelas
+* [clique aqui](desafio-1-sobre-tabelas.netlify.app) para ver a parte 1 do desafio
+
+### Desafio parte 2 sobre tabelas
+* [clique aqui](https://desafio-2-sobre-tabelas.netlify.app/) para ver a parte 2 o desafio
 
 # Modulo 4
 
 ### Desafio redes sociais 
 * para ver o site pronto [clique aqui](https://projeto-redes-sociais-estudonauta.netlify.app/)
-
+---
 ### Primeiro exercicio sobre formularios 
 * para ver o exercicio [clique aqui](https://formulario-1-estudonauta.netlify.app/)
 
@@ -86,9 +90,22 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 ### Formularios select, datalist e textarea
 * Para ver o exercicio é só [clicar aqui](https://formulario-7-estudonauta.netlify.app/)
 
-### começamos os estudos de Media Query - exercicio 1
+---
+
+### Começamos os estudos de Media Query - exercicio 1
 * estudos de media query e media types: screen e print. o pra ver o link do exercicio é só [clicar aqui](https://media-queries-estudonauta.netlify.app/)
 
+### Exercicio 1 : estudos de media query e media types: screen e print. 
+
+  * o pra ver o link do exercicio -1 é só [clicar aqui](https://media-queries-estudonauta.netlify.app/)
+
+o site é bem feinho mesmo e as cores não combinam muito bem, mas é porque foi só uma experiência de criar algo pra impressão
+
+### Exercicio 2 : estudando o type all e orientação do dispositivo 
+*  para ver o site [clique aqui](https://mudar-orientacao-do-celular.netlify.app/)
+
+### Exercicio 3 : mostrando a orientação do dispositivo com mesmo css (para sites pequenos)
+  * usamos a mesma base do exercicio anterior porém usando consultas de (`@media`) usamos o mesmo style para fazer tudo isso, usamos `@media screen and (orientation: landscape)` para o modo retrato e `@media screen and (orientation: portrait)` para o modo paisagem. 
 
 
 
