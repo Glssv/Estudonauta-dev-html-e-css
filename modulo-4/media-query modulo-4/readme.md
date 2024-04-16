@@ -13,8 +13,7 @@ o site é bem feinho mesmo e as cores não combinam muito bem, mas é porque foi
   *  usamos o `@media` para fazer as configurações do site, ele muda pra cada tipo de tela, achei muito legal. O link do site está [aqui](https://site-media-queries.netlify.app/) 
   
 ### projeto menu responsivo 
-* 
-
+*  Com ajuda do Gustavo Guanabara consegui fazer um mini projeto de um menu responsivo usando media queries e um pouco de javascript, para ver o site só [clicar aqui](https://menu-hamburguinho.netlify.app/), o site é simples, apenas para aplicar os conhecimentos
 ---
 <h2 align="center">
   <img src="../../img/catzinho.jpg" width="300">

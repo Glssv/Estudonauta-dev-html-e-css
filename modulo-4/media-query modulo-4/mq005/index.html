@@ -4,29 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="estilos/style.css">
-    <title>menu responsivo</title>
+    <link rel="stylesheet" href="estilos/media-query.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>Menu Responsivo</title>
 </head>
-<body>
+<body onresize="tamanho()">
     <header>
         <h1>Gato Olly</h1>
-        <menu>
+        <i id="burguer" class="material-icons" onclick="clickMenu()">menu </i>
+        <menu id="itens">
             <ul>
                 <li><a href="#">Quem sou eu</a></li>
                 <li><a href="https://gato-olly.netlify.app/gatinho0">Cuidados</a></li>
-                <li><a href=" https://gato-olly.netlify.app/gatinhos1">Importancia de escovar o pelo</a></li>
-                <li><a href=" https://github.com/Glssv">Meu Github</a></li>
+                <li><a href="https://gato-olly.netlify.app/gatinhos1">Importancia de escovar o pelo</a></li>
+                <li><a href="https://github.com/Glssv">Meu Github</a></li>
             </ul>
         </menu>
     </header>
     <main>
         <article>
             <h2>Olá! Meu nome é Olly</h2>
-            <p>
-                Miau miau gente! Meu nome é Olly e sou o gato mais incrível e bonito da vizinhança. Tenho 2 anos e 5 meses, e essa foto 3x4 aí foi tirada pelo meu avô (tava com uma remelazinha no olho nesse dia, e nem pra ele me avisar). Pensando em como ajudar novos papais e mamaes de gatos decidi tirar tudo do meu diário felino e mandar minha humana traduzir pro linguajar de vocês, pra compartilhar um pouco do meu conhecimento sobre gatos (ou pelo menos uma parte dele). Porque,sou muito bomzinho (mentira, todo mundo sabe que só to de olho nos petisquinhos, né?).
+            <img src="img/olly.png" alt="">
+            <p>Miau miau gente! Meu nome é Olly e sou o gato mais incrível e bonito da vizinhança. Tenho 2 anos e 5 meses, e essa foto 3x4 aí foi tirada pelo meu avô (tava com uma remelazinha no olho nesse dia, e nem pra ele me avisar). Pensando em como ajudar novos papais e mamaes de gatos decidi tirar tudo do meu diário felino e mandar minha humana traduzir pro linguajar de vocês, pra compartilhar um pouco do meu conhecimento sobre gatos (ou pelo menos uma parte dele). Porque,sou muito bomzinho (mentira, todo mundo sabe que só to de olho nos petisquinhos, né?).
             </p>
-            <p>
-            sou um gato muito brincalhão então os melhores memes de gato tão aqui comigo, hein? Adoro arranhar tudo o que que vejo pela frente, pegar a meia da humana e esconder em um lugarzinho só meu, porque, né, diversão é isso aí! E não posso esquecer das brigas com os gatos menores que eu, é a lei da selva, pessoal, porque a vida é isso aí, né?, adoro dormir onde não deixam e adoro dar aquele toque especial pedindo pra descer do telhado às 2:40 da matina. É diversão garantida.</p>
+            <p>Sou um gato muito brincalhão então os melhores memes de gato tão aqui comigo, hein? Adoro arranhar tudo o que que vejo pela frente, pegar a meia da humana e esconder em um lugarzinho só meu, porque, né, diversão é isso aí! E não posso esquecer das brigas com os gatos menores que eu, é a lei da selva, pessoal, porque a vida é isso aí, né?, adoro dormir onde não deixam e adoro dar aquele toque especial pedindo pra descer do telhado às 2:40 da matina. É diversão garantida.</p>
         </article>
     </main>
+    <script>
+       function tamanho(){
+        var itens = document.getElementById("itens");
+        if(window.innerWidth >= 768){
+        itens.style.display = 'block';
+     }else {
+        itens.style.display = 'none';
+        }
+    }
+
+    function clickMenu(){
+        var itens = document.getElementById("itens");
+        if(itens.style.display === 'block'){
+        itens.style.display = 'none';
+    } else {
+        itens.style.display = 'block';
+        }
+    }
+    </script>
 </body>
 </html>
