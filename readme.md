@@ -19,10 +19,6 @@ Vou registrar todos os desafios e exercícios de cada módulo. Em cada arquivo d
 
 ---
 
-### {Até o momento, nenhum dos desafios ou exercícios está sendo responsivo}
-
- ---
-
 # Modulo 1
 
 ### Desafio 5 do modulo 1
@@ -113,8 +109,11 @@ o site é bem feinho mesmo e as cores não combinam muito bem, mas é porque foi
 ### Mini projeto Menu Responsivo 
 *  Com ajuda do Gustavo Guanabara consegui fazer um mini projeto de um menu responsivo usando media queries e um pouco de javascript, para ver o site só [clicar aqui](https://menu-hamburguinho.netlify.app/), o site é simples, apenas para aplicar os conhecimentos.
   
-### Projeto tela de login - responsivo
+### Projeto tela de login - primeiro site responsivo
 * Para comemorar o final do modulo 4 venho compartilhar o desenvolvimento web com design responsivo utilizando o conceito mobile first. Para acessar o link do site é só [clicar aqui](https://tela-de-login-projeto.netlify.app/)
+
+# Modulo 5
+* Começamos a estudar Flexbox. Atualmente, estamos na sétima aula e ainda estamos na teoria, mas de forma bem explicada.
 
 ---
 <h2 align="center">
